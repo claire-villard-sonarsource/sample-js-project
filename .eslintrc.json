@@ -1,0 +1,10 @@
+{
+    "env": { "browser": true },
+    "extends": "semistandard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+  "rules": {
+    "camelcase": ["off"]}
+}
