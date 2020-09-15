@@ -1,4 +1,4 @@
-Test project
+Test project - release 1.0
 
 * eslint
 * typescript
