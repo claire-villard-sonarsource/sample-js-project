@@ -1,4 +1,4 @@
-Test project - master
+Test project
 
 * eslint
 * typescript
