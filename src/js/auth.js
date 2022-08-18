@@ -7,6 +7,4 @@ function do_auth(username, password) {
     return db.one(q);
 }
 
-alert("oups");
-
 module.exports = do_auth;
