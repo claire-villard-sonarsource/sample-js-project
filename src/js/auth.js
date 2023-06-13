@@ -1,4 +1,3 @@
-
 const aws_access_key_id = "ASIALKSJGJSHBGSL135H"
 
 var config = require("../config"),
